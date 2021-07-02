@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "417404040678",
+    "firebase_url": "https://smart-hire-app-123-5cb7c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-hire-app-123-5cb7c",
+    "storage_bucket": "smart-hire-app-123-5cb7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417404040678:android:28cf3a5ac41e24c3621227",
+        "android_client_info": {
+          "package_name": "com.app.smarthire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417404040678-5ddtjqid5c0clc42jdcgu7km2e395l27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.smarthire",
+            "certificate_hash": "0ac0b14170abda29704815629fbe375533601d59"
+          }
+        },
+        {
+          "client_id": "417404040678-kn1vckgjbg3lebeko8ljuohperv7tall.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHty1WA6L44ko-TRT6r4TS0EsaWqKrXxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417404040678-kn1vckgjbg3lebeko8ljuohperv7tall.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
