@@ -47,11 +47,11 @@ Therefore, this project aims to minimize human efforts in information extraction
 
 <h3 id="demo">Demo</h3>
 
-<div style="float:left;margin-right:5px;">
+<div style="align:center">
     <img src="images/demo1.png" alt="demo1" width="180" height="380">
     <p style="text-align:center;">This is image 1</p>
 </div>
-<div style="float:left;margin-right:5px;">
+<div style="align:center">
     <img src="images/demo1.png" alt="demo1" width="180" height="380">
     <p style="text-align:center;">This is image 1</p>
 </div>
