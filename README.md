@@ -46,8 +46,10 @@ Therefore, this project aims to minimize human efforts in information extraction
 
 
 <h3 id="demo">Demo</h3>
+<div>
    <div style=display:inline-block><img src="images/demo1.png" alt="demo1" width="360" height="760"></div>
    <div style=display:inline-block>Select a resume</div>
+</div>
 
 <h3 id="prerequisite">Prerequisite</h3>
 <ul>
