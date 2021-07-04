@@ -46,10 +46,14 @@ Therefore, this project aims to minimize human efforts in information extraction
 
 
 <h3 id="demo">Demo</h3>
-<div>
-   <div style=display:inline-block float:left><img src="images/demo1.png" alt="demo1" width="360" height="760"></div>
-   <div style=display:inline-block float: right>Select a resume</div>
-</div>
+<div align="center"><img src="images/demo1.png" alt="demo1" width="180" height="380"></div>
+<div align="center"><img src="images/demo2.png" alt="demo2" width="180" height="380"></div>
+<div align="center"><img src="images/demo3.png" alt="demo3" width="180" height="380"></div>
+<div align="center"><img src="images/demo4.png" alt="demo4" width="180" height="380"></div>
+<div align="center"><img src="images/demo5.png" alt="demo5" width="180" height="380"></div>
+<div align="center"><img src="images/demo6.png" alt="demo6" width="180" height="380"></div>
+<div align="center"><img src="images/demo7.png" alt="demo7" width="180" height="380"></div>
+
 
 <h3 id="prerequisite">Prerequisite</h3>
 <ul>
