@@ -46,6 +46,11 @@ Therefore, this project aims to minimize human efforts in information extraction
 
 
 <h3 id="demo">Demo</h3>
+<ol>
+    <li>
+      <img src="images/demo1.png" alt="Logo" width="80" height="80" style="float:left">
+    </li>
+</ol>
 
 
 <h3 id="prerequisite">Prerequisite</h3>
