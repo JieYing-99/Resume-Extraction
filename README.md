@@ -49,7 +49,6 @@ Therefore, this project aims to minimize human efforts in information extraction
 
 
 <h3 id="prerequisite">Prerequisite</h3>
-<br>
 <ul>
     <li>
       Your mobile device must have an operating system of Android 7.0 or above.
@@ -57,11 +56,11 @@ Therefore, this project aims to minimize human efforts in information extraction
 </ul>
 
 <h3 id="setup">Installation</h3>
-<b>This project is built with:</b>
-<br>
-* [Google ML Kit Face Detection API](https://developers.google.com/ml-kit/vision/face-detection)
-* [Google ML Kit Text Recognition API](https://developers.google.com/ml-kit/vision/text-recognition)
-* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
-
-
+<ul>
+    <li>
+      The app can be downloaded here:
+      <br>
+      https://drive.google.com/file/d/1-UBJwG-iddrUYJ0n-bolY9n5rebUcUbI/view?usp=sharing
+    </li>
+</ul>
 <i>The complete source code is not shared yet due to permission issues.</i>
