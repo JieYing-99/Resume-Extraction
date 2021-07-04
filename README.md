@@ -61,6 +61,7 @@ Therefore, this project aims to minimize human efforts in information extraction
       The app can be downloaded here:
       <br>
       https://drive.google.com/file/d/1-UBJwG-iddrUYJ0n-bolY9n5rebUcUbI/view?usp=sharing
+      <a href="https://drive.google.com/file/d/1-UBJwG-iddrUYJ0n-bolY9n5rebUcUbI/view?usp=sharing">HERE</a>
     </li>
 </ul>
 <i>The complete source code is not shared yet due to permission issues.</i>
