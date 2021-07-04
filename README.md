@@ -15,14 +15,13 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#setup">Setup</a>
     </li>
-    <li><a href="#demo">Demo</a></li>
+    <li>
+      <a href="#demo">Demo</a>
+    </li>
   </ol>
 </details>
 
@@ -35,8 +34,8 @@ Aswathy 2019, p. 661). The manual way of extracting and entering the employee’
 is not only inefficient, but also prone to human errors. 
 Therefore, this project aims to minimize human efforts in information extraction and data entry.
 
-## Built With
-
+<b>This project is built with:<\b>
+<br>
 * [Google ML Kit Face Detection API](https://developers.google.com/ml-kit/vision/face-detection)
 * [Google ML Kit Text Recognition API](https://developers.google.com/ml-kit/vision/text-recognition)
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
@@ -45,4 +44,3 @@ Therefore, this project aims to minimize human efforts in information extraction
 
 
 ## Demo
-
