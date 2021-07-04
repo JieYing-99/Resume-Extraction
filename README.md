@@ -46,8 +46,8 @@ Therefore, this project aims to minimize human efforts in information extraction
 
 
 <h3 id="demo">Demo</h3>
-<div align="center"><img src="images/demo1.png" alt="demo1" width="180" height="380" style="float:left; padding-right: 10px;"></div>
-<div align="center" style="float:left;">Hello</div>
+<div style="float:left; padding-right: 10px;"><img src="images/demo1.png" alt="demo1" width="180" height="380"></div>
+<div style="float:left;">Hello</div>
 <div align="center"><img src="images/demo2.png" alt="demo2" width="180" height="380" style="float:left;></div>
 <div align="center"><img src="images/demo3.png" alt="demo3" width="180" height="380" style="float:left;></div>
 <div align="center"><img src="images/demo4.png" alt="demo4" width="180" height="380" style="float:left;></div>
