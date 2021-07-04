@@ -20,13 +20,9 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#setup">Setup</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#demo">Demo</a></li>
   </ol>
 </details>
 
