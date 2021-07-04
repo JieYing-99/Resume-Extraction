@@ -57,7 +57,11 @@ Therefore, this project aims to minimize human efforts in information extraction
 </ul>
 
 <h3 id="setup">Installation</h3>
+<b>This project is built with:</b>
 <br>
-* [Google ML Kit Face Detection API](https://developers.google.com/ml-kit/vision/face-detection) 
-<br>
+* [Google ML Kit Face Detection API](https://developers.google.com/ml-kit/vision/face-detection)
+* [Google ML Kit Text Recognition API](https://developers.google.com/ml-kit/vision/text-recognition)
+* [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
+
+
 <i>The complete source code is not shared yet due to permission issues.</i>
