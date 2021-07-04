@@ -48,7 +48,8 @@ Therefore, this project aims to minimize human efforts in information extraction
 <h3 id="demo">Demo</h3>
 <ol>
     <li>
-      <img src="images/demo1.png" alt="Logo" width="80" height="80" style="float:left">
+      <img src="images/demo1.png" alt="demo1" width="1080" height="2280" style="float:left">
+      <p>Select a resume</p>
     </li>
 </ol>
 
