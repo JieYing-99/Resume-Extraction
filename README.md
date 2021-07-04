@@ -49,9 +49,9 @@ Therefore, this project aims to minimize human efforts in information extraction
 
 
 <h3 id="prerequisite">Prerequisite</h3>
-- Your mobile device must have an operating system of Android 7.0 or above.
+* Your mobile device must have an operating system of Android 7.0 or above.
 
 <h3 id="setup">Installation</h3>
-- [Download and install the APK file.](https://drive.google.com/file/d/1-UBJwG-iddrUYJ0n-bolY9n5rebUcUbI/view?usp=sharing) 
+* [Download and install the APK file.](https://drive.google.com/file/d/1-UBJwG-iddrUYJ0n-bolY9n5rebUcUbI/view?usp=sharing) 
 <br>
 <i>The complete source code is not shared yet due to permission issues.</i>
