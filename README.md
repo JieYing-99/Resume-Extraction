@@ -20,10 +20,14 @@
       <a href="#demo">Demo</a>
     </li>
     <li>
-      <a href="#setup">Setup</a>
+      <a href="#prerequisite">Prerequisite</a>
+    </li>
+    <li>
+      <a href="#setup">Installation</a>
     </li>
   </ol>
 </details>
+
 
 <h3 id="about-the-project">About The Project</h3>
 
@@ -43,4 +47,11 @@ Therefore, this project aims to minimize human efforts in information extraction
 
 <h3 id="demo">Demo</h3>
 
-<h3 id="setup">Setup</h3>
+
+<h3 id="prerequisite">Prerequisite</h3>
+* Your physical device must have an operating system of Android 7.0 or above.
+
+<h3 id="setup">Installation</h3>
+Download and install the APK file. 
+
+<i>The source code is currently not available.</i>
