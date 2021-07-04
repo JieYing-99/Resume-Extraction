@@ -49,7 +49,7 @@ Therefore, this project aims to minimize human efforts in information extraction
 <ol>
     <li>
       <div style=display:inline-block vertical-align:top><img src="images/demo1.png" alt="demo1" width="360" height="760"></div>
-      <div style=display:inline-block><img src="images/demo1.png" alt="demo1" width="360" height="760"></div>
+      <div style=display:inline-block>Select a resume</div>
     </li>
 </ol>
 
