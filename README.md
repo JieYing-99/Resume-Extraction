@@ -25,7 +25,7 @@
   </ol>
 </details>
 
-<h4 id="about-the-project">About The Project</h4>
+<h3 id="about-the-project">About The Project</h3>
 
 The extraction of employees’ credentials from resumes and data entry have always been
 tedious and time-consuming, especially when the number of resumes to be processed for a job
@@ -41,6 +41,6 @@ Therefore, this project aims to minimize human efforts in information extraction
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
 
 
-## Demo
+<h3 id="demo">Demo</h3>
 
-## Setup
+<h3 id="setup">Setup</h3>
