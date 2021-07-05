@@ -38,7 +38,7 @@ Aswathy 2019, p. 661). The manual way of extracting and entering the employee’
 is not only inefficient, but also prone to human errors. 
 Therefore, this project aims to minimize human efforts in information extraction and data entry.
 
-<b>This project is built with:</b>
+<b>This project was built with:</b>
 <br>
 * [Google ML Kit Face Detection API](https://developers.google.com/ml-kit/vision/face-detection)
 * [Google ML Kit Text Recognition API](https://developers.google.com/ml-kit/vision/text-recognition)
