@@ -50,27 +50,27 @@ Therefore, this project aims to minimize human efforts in information extraction
 <div align="center">
   <p style="text-align:center;">1. Start by pressing the "+" button.</p>
   <img src="images/demo1.png" alt="demo1" width="180" height="380">
-</div>
+</div><br>
 <div align="center">
   <p style="text-align:center;">2. Press "AI".</p>
   <img src="images/demo2.png" alt="demo2" width="180" height="380">
-</div>
+</div><br><br>
 <div align="center">
   <p style="text-align:center;">3. You may select a resume from your gallery or capture a photo of a resume.</p>
   <img src="images/demo3.png" alt="demo3" width="180" height="380">
-</div>
+</div><br>
 <div align="center">
   <p style="text-align:center;">4. Press "Extract" to start the resume extraction.</p>
   <img src="images/demo4.png" alt="demo4" width="180" height="380">
-</div>
+</div><br>
 <div align="center">
   <p style="text-align:center;">5. The employee's information has been extracted from the resume.</p>
   <img src="images/demo5.png" alt="demo5" width="180" height="380">
-</div>
+</div><br>
 <div align="center">
   <p style="text-align:center;">6. You may edit the information. Press the "/" button to save the extracted information.</p>
   <img src="images/demo6.png" alt="demo6" width="180" height="380">
-</div>
+</div><br>
 <div align="center">
   <p style="text-align:center;">7. The employee's infromation has been saved and can be viewed.</p>
   <img src="images/demo7.png" alt="demo7" width="180" height="380">
