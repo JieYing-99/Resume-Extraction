@@ -80,7 +80,7 @@ Therefore, this project aims to minimize human efforts in information extraction
 <h3 id="prerequisite">Prerequisite</h3>
 <ul>
     <li>
-      Your mobile device must have an operating system of Android 7.0 or above.
+      Mobile device with an operating system of Android 7.0 or above.
     </li>
 </ul>
 
