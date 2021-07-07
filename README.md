@@ -44,6 +44,7 @@ Therefore, this project aims to minimize human efforts in information extraction
 * [Google ML Kit Face Detection API](https://developers.google.com/ml-kit/vision/face-detection)
 * [Google ML Kit Text Recognition API](https://developers.google.com/ml-kit/vision/text-recognition)
 * [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
+* [Firebase](https://firebase.google.com/docs)
 
 
 <h3 id="demo">Demo</h3>
