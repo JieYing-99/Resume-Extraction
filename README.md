@@ -6,7 +6,8 @@
   <h3 align="center">Resume Extraction Mobile App</h3>
 
   <p align="center">
-    This mobile application provides employers a solution to extract their newly-hired employees’ information from their resumes, save the information into a database and perform face verification.
+    This mobile application provides employers a solution to extract their newly-hired employees’ information from their resumes, save the information into a database and perform face verification. 
+  <br> <i>Note: This project is still in progress.</i><br>
   </p>
 </p>
 
@@ -87,7 +88,7 @@ Therefore, this project aims to minimize human efforts in information extraction
 <h3 id="setup">Installation</h3>
 <ul>
     <li>
-      The app can be downloaded <a href="https://drive.google.com/file/d/1-UBJwG-iddrUYJ0n-bolY9n5rebUcUbI/view?usp=sharing">here</a>.
+      <!--The app can be downloaded <a href="https://drive.google.com/file/d/1-UBJwG-iddrUYJ0n-bolY9n5rebUcUbI/view?usp=sharing">here</a>.-->
+      <i>The complete source code is not available yet. APK file is available upon request</i>
     </li>
 </ul>
-<i>The complete source code is not available yet.</i>
