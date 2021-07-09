@@ -90,6 +90,6 @@ Therefore, this project aims to minimize human efforts in information extraction
 <ul>
     <li>
       <!--The app can be downloaded <a href="https://drive.google.com/file/d/1-UBJwG-iddrUYJ0n-bolY9n5rebUcUbI/view?usp=sharing">here</a>.-->
-      The complete source code is not available yet. APK file is available upon request.
+      The complete source code is not available yet.
     </li>
 </ul>
